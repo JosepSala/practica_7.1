@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             josep12345/practica_7.1:latest
-            ghcr.io/JosepSala/practica_7.1:latest
+            ghcr.io/josepsala/practica_7.1:latest
